@@ -21,7 +21,6 @@ Hi there! <span style="margin:0 10px;">👋</span> I'm <strong>Akın Kemal</stro
 ### 📈 My GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=akinkemal&show_icons=true&theme=white&hide_title=true" alt="GitHub Stats" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=akinkemal&theme=default&hide_border=true&ring=blue" alt="GitHub Streak Stats" width="48%"/>
 </div>
 
 ### 👀 Visitor Counter
