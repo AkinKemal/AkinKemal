@@ -22,3 +22,9 @@ Hi there! <span style="margin:0 10px;">👋</span> I'm <strong>Akın Kemal</stro
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=akinkemal&show_icons=true&theme=white&hide_title=true" alt="GitHub Stats" width="48%"/>
 </div>
+
+
+ ### 👀 Visitor Counter
+ <p align="left">
+     <img src="https://hits.sh/akinkemal/akinkemal.github.io.svg?style=for-the-badge&label=Visitors&color=blue&logo=github" alt="Visitors">
+ </p>
